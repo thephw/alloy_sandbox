@@ -1,0 +1,18 @@
+# Project Ignores
+build.log
+build
+npm-debug.log
+tmp
+node_modules
+*.sublime-project
+*.sublime-workspace
+.project
+
+# OS X ignores
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
